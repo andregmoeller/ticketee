@@ -56,3 +56,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# Provides a Sass-powered version of Bootstrap 3
+gem 'bootstrap-sass', '~> 3.3'
+# Fontawesome packaged for Rails Asset Pipeline
+gem 'font-awesome-rails', '~> 4.7.0'
+# Provides a simple DSL for creating online forms
+gem "simple_form", "~> 3.5.1"
