@@ -41,6 +41,8 @@ group :development, :test do
   gem 'selenium-webdriver'
   # Adss support for the RSpec testing framework
   gem 'rspec-rails', '~> 3.7.2'
+  # Provides a framework and DSL for defining and using factories
+  gem 'factory_bot_rails', '~> 4.8.2'
 end
 
 group :development do
