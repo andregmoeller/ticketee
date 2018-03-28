@@ -62,3 +62,5 @@ gem 'bootstrap-sass', '~> 3.3'
 gem 'font-awesome-rails', '~> 4.7.0'
 # Provides a simple DSL for creating online forms
 gem "simple_form", "~> 3.5.1"
+# Provides a flexible authentication solution
+gem "devise", "~> 4.4.3"
