@@ -64,3 +64,5 @@ gem 'font-awesome-rails', '~> 4.7.0'
 gem "simple_form", "~> 3.5.1"
 # Provides a flexible authentication solution
 gem "devise", "~> 4.4.3"
+# Object oriented authorization for Rails applications
+gem "pundit", "~> 1.1.0"
