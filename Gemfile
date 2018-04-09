@@ -66,3 +66,5 @@ gem "simple_form", "~> 3.5.1"
 gem "devise", "~> 4.4.3"
 # Object oriented authorization for Rails applications
 gem "pundit", "~> 1.1.0"
+# Provides a way to upload files
+gem 'carrierwave', '~> 1.2.2'
